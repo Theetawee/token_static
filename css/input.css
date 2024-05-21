@@ -1,0 +1,6 @@
+* {
+    font-family: "M PLUS Rounded 1c", sans-serif !important;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
